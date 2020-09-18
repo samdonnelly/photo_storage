@@ -1,5 +1,5 @@
-# Move select photos from external SD card onto main drive in the correct folder 
-# Sort remaining photos into correct folder on an external drive for storage 
+# Move select photos from an external camera SD card onto local drive in a custom folder
+# Move remaining photos into an identical folder on an external drive for storage
 
 # Note 1: os.listdir(path) - returns directories in a path as a list  
 # Note 2: Python scripts from terminal can be terminated using Ctl + C
